@@ -20,6 +20,7 @@ The following libraries will be required
 # Key file descriptions
 
 sampled_data: A collection of 100,000 samples from the original dataset, spread across the two labels.
+
 sampled_data_preprocessed: Preprocessed version of the sampled_data. It is the final dataset, used to create the train and test samples.
 
 
