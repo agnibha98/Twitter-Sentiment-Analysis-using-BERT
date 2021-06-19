@@ -3,7 +3,7 @@ A massive amount of text data is generated from the internet each day and sentim
 
 BERT (Bidirectional Encoder Representation from Transformers)  has achieved tremendous results in a range of Natural Language Processing tasks including Question Answering and Natural Language Inference. The paper for BERT can be found here: https://arxiv.org/abs/1810.04805
 
-#DATASET
+# DATASET
 
 The original dataset we used for our project can be found here: http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip.
 
