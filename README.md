@@ -3,7 +3,27 @@ A massive amount of text data is generated from the internet each day and sentim
 
 BERT (Bidirectional Encoder Representation from Transformers)  has achieved tremendous results in a range of Natural Language Processing tasks including Question Answering and Natural Language Inference. The paper for BERT can be found here: https://arxiv.org/abs/1810.04805
 
-# DATASET
+# Setting up the environment
+
+The following libraries will be required
+
+    Pandas
+    Matplotlib
+    NLTK
+    ktrain
+    Python 3.x
+    Keras
+    Tensorflow
+    Numpy
+    seaborn
+    
+# Key file descriptions
+
+sampled_data: A collection of 100,000 samples from the original dataset, spread across the two labels.
+sampled_data_preprocessed: Preprocessed version of the sampled_data. It is the final dataset, used to create the train and test samples.
+
+
+# Dataset
 
 The original dataset we used for our project can be found here: http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip.
 
